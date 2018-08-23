@@ -1,0 +1,44 @@
+1
+7
+1
+Task completed in time
+2
+6
+1
+Completed aranging several bugs
+3
+2
+1
+The user completed the task with no bugs
+4
+2
+1
+The task isn't finished yet
+5
+1
+5
+The task is now completed
+6
+4
+9
+The site will be made with 4 pages
+7
+8
+11
+The task is not finished yet
+8
+8
+11
+The task is not finished yet
+9
+5
+11
+The CSS task is now completed
+10
+7
+11
+The android task is waiting for complete
+11
+6
+11
+The Wordpress site is now completed

@@ -1,0 +1,6 @@
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\bin\Debug\ConsoleTasksbook.exe.config
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\bin\Debug\ConsoleTasksbook.exe
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\bin\Debug\ConsoleTasksbook.pdb
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\obj\Debug\ConsoleTasksbook.csprojResolveAssemblyReference.cache
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\obj\Debug\ConsoleTasksbook.exe
+D:\UniversityTasks\ConsoleTasksbook\ConsoleTasksbook\obj\Debug\ConsoleTasksbook.pdb

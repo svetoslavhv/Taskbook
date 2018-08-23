@@ -1,0 +1,72 @@
+1
+C#
+Creating Console C# game
+5
+5
+1
+02-08-2009
+03-02-2010
+Completed
+2
+SQL
+Create a SQL trigger that fires on update
+8
+6
+1
+03-04-2012
+08-04-2012
+Waiting
+3
+JavaScript
+Create a Javascrip game that runs on the browser
+12
+5
+4
+09-10-2014
+11-11-2014
+Completed
+4
+HTML
+Create a HTML site
+7
+9
+1
+09-02-2014
+09-03-2014
+Waiting
+5
+CSS
+Make a style to the web page
+12
+11
+1
+03-04-2009
+08-01-2011
+Completed
+6
+Wordpress
+Create a web site using Content Managemenet System
+15
+11
+1
+03-01-2005
+08-02-2005
+Completed
+7
+Android
+Create an Android UI
+20
+1
+11
+09-02-2011
+03-02-2013
+Waiting
+8
+MySQL
+Create a MySQL database to use it in a PHP page
+18
+1
+11
+09-01-2003
+08-01-2006
+Waiting
